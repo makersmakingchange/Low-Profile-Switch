@@ -6,8 +6,8 @@ A low force hand operated switch
 
 ## Getting Started
 1. [How to build this device](/Documentation/.pdf) 
-2. [How to request a build of this device](https://makersmakingchange.com/project/low-profile-switch/)
-3. [How to build this device for someone else](https://makersmakingchange.com/maker-wanted/)
+2. [How to request a build of this device](<https://makersmakingchange.com/project/low-profile-switch/)
+3. [How to build this device for someone else](https://makersmakingchange.com/maker-wanted/>)
 
 
 ## Files
