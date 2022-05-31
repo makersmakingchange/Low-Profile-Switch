@@ -27,7 +27,7 @@ If you have the skills and equipment to build this device, and would like to don
 |----------------------|---------|---------------------------------------------------------------------------------------|
 | Maker Checklist      | 1.0     | [Maker Checklist](/Documentation/Low_Profile_Switch_Maker_Checklist_v1.0.pdf)         |
 | Bill of Materials    | 1.0     | [BOM](/Documentation/Low_Profile_Switch_BOM_V1.0.xlsx)                                |
-| 3D Printing Guide    | 1.0     | [3D Printing Guide](Documentatin/Low_Profile_Switch_3D_Printing_Guide_v1.0.pdf)             |
+| 3D Printing Guide    | 1.0     | [3D Printing Guide](Documentation/Low_Profile_Switch_3D_Printing_Guide_v1.0.pdf)             |
 | Assembly Guide       | 1.0     | [Assembly Guide](/Documentation/Low_Profile_Switch_Assembly_Guide_v1.0.pdf)           |      
 | User Quick Guide     | 1.0     | [Quick_Guide](/Documentation/Low_Profile_Switch_User_Guide_v1.0.pdf)                  |
 
